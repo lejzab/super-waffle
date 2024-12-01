@@ -1,0 +1,31 @@
+.
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Logs
+*.log
+
+# Testing
+/cover.out
+
+# Dependency directories
+/vendor/
+
+# Go workspace file
+go.work
+
+# IDE specific files
+/.idea/
+.DS_Store
+*.iml
+
+# Go Modules
+/go.sum
+
+output/*.png
